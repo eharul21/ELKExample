@@ -1,4 +1,4 @@
-anode {
+node {
 	def application = "springbootapp"
 	def dockerhubaccountid = "eharul"
 	stage('Clone repository') {
